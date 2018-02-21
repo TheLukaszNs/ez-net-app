@@ -4,8 +4,8 @@ const TYPE = 'Wave';
 const COLOR = '#3F51B5';
 const SIZE = 100;
 
-const style = StyleSheet.create({
+const styles = StyleSheet.create({
   loader: { marginTop: '50%' },
 });
 
-export { style, TYPE, COLOR, SIZE };
+export { styles, TYPE, COLOR, SIZE };
