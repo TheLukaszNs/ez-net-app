@@ -1,7 +1,7 @@
 import React from 'react';
+import { StyleSheet } from 'react-native';
 
 import Spinner from 'react-native-spinkit';
-
 import { loaderStyle } from '../../assets/styles';
 
 const Loading = () => (
